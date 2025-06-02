@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=NEXUS-XMD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=DAVE-KASE" alt="Typing SVG" /></a>
   </div>
 <a><img src='https://files.catbox.moe/78muhw.jpg'/></a>
 
@@ -16,7 +16,7 @@
 
 <p align='center'>
 
- <a href="https://github.com/pkdriller/NEXUS-XMD/fork"><img title="NEXUS-XMD" src="https://img.shields.io/badge/FORK-NEXUS XMD V1-h?color=008000&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/pkdriller/DAVE-KASE/fork"><img title="NEXUS-XMD" src="https://img.shields.io/badge/FORK-DAVE KASE V1-h?color=008000&style=for-the-badge&logo=github"></a>
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
