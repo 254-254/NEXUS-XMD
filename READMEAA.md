@@ -16,7 +16,7 @@
 
 <p align='center'>
 
- <a href="https://github.com/pkdriller/DAVE-KASE/fork"><img title="NEXUS-XMD" src="https://img.shields.io/badge/FORK-DAVE KASE V1-h?color=008000&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/pkdriller/DAVE-KASE/fork"><img title="KASE-BOY-COMPANY" src="https://img.shields.io/badge/FORK-DAVE KASE V1-h?color=008000&style=for-the-badge&logo=github"></a>
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
@@ -34,12 +34,12 @@
    </a>
 </p>
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/NEXUS-XMD/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/-DAVE KASE/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY DAVE KASE-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
 <p align="center">
   <a href="https://render.com">
-    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/👻_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+    <img title="KASE BOY COMPANY" src="https://img.shields.io/badge/👻_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
   </a>
 </p>
 <p align="center">
@@ -62,13 +62,15 @@
 
 *FOR PANEL DEPLOYMENT*
 
----
+---    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_NEXUS_SESSION1-000000?style=for-the-badge&logo![20250425_104912-ANIMATION](https://github.com/user-attachments/assets/b7739efd-c9f4-4c38-abe0-cf1ec6a4c815)
+![1743454657101](https://github.com/user-attachments/assets/e5c72a79-14ea-4c83-9f88-262d3df445ef)
+=quantum&logoColor=white&color=blue" width="260" height="50"/>
 
 ### 📦 Download the Bot File
 
 <p align="center">
-  <a href="https://github.com/Pkdriller/NEXUS-XMD/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white" alt="Download Bot File" />
+  <a href="https://github.com/Pkdriller/DAVE-KASE/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=whihte" a7lt="Download Bot File" />
   </a>
 </p>
 
